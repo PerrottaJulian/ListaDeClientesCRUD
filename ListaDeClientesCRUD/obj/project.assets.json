@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jperrotta\\dev\\WebTickets\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj",
       "projectName": "ListaDeClientesCRUD",
-      "projectPath": "C:\\Users\\jperrotta\\dev\\WebTickets\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj",
+      "projectPath": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj",
       "packagesPath": "C:\\Users\\jperrotta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jperrotta\\dev\\WebTickets\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\obj\\",
+      "outputPath": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

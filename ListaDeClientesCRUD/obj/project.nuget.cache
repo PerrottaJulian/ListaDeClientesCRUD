@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FAyzlGOteN/Q7o5sAoVfF6WkaGZipWpz+AbUAT3/vT0l2ectZIXad1MRrzfUzydoQ7nQ0WxIawn6sdZmvuDAmQ==",
+  "dgSpecHash": "UlAAMkHEwRs4t9vR5ze5BgrpNRnjQHq9TlT37R1bGTH0NzvyvsZp+ChZcFZHLhDQd+4GWVqChLDXed87t+fZYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jperrotta\\dev\\WebTickets\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj",
+  "projectFilePath": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jperrotta\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jperrotta\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
