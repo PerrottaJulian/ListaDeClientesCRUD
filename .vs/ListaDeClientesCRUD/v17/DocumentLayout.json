@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\views\\inicio\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\views\\inicio\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\views\\home\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\views\\home\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\views\\clientes\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\views\\clientes\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\views\\inicio\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\views\\inicio\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|c:\\users\\jperrotta\\dev\\listadeclientescrud\\listadeclientescrud\\views\\clientes\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AB804E-8A38-4B4D-86E6-46C8DBB2B3D2}|ListaDeClientesCRUD\\ListaDeClientesCRUD.csproj|solutionrelative:listadeclientescrud\\views\\clientes\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,54 +54,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ListaDeClientesCRUD\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:07:33.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Models\\Cliente.cs",
-              "RelativeToolTip": "ListaDeClientesCRUD\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:07:22.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ListaDeClientesCRUD\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T17:31:54.609Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Inicio\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Views\\Inicio\\Inicio.cshtml",
+              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Inicio\\Inicio.cshtml",
+              "RelativeToolTip": "ListaDeClientesCRUD\\Views\\Inicio\\Inicio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T17:30:10.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ListaClientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Home\\ListaClientes.cshtml",
-              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Views\\Home\\ListaClientes.cshtml",
-              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Home\\ListaClientes.cshtml",
-              "RelativeToolTip": "ListaDeClientesCRUD\\Views\\Home\\ListaClientes.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABZAAAA",
+              "Title": "Nuevo.cshtml",
+              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Clientes\\Nuevo.cshtml",
+              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Views\\Clientes\\Nuevo.cshtml",
+              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Clientes\\Nuevo.cshtml",
+              "RelativeToolTip": "ListaDeClientesCRUD\\Views\\Clientes\\Nuevo.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T17:32:05.305Z"
+              "WhenOpened": "2024-05-28T17:24:58.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Clientes\\Lista.cshtml",
+              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Views\\Clientes\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Clientes\\Lista.cshtml",
+              "RelativeToolTip": "ListaDeClientesCRUD\\Views\\Clientes\\Lista.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T17:23:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "ListaDeClientesCRUD\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:13:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Inicio\\Login.cshtml",
+              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Views\\Inicio\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Inicio\\Login.cshtml",
+              "RelativeToolTip": "ListaDeClientesCRUD\\Views\\Inicio\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T17:10:33.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ListaDeClientesCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jperrotta\\dev\\ListaDeClientesCRUD\\ListaDeClientesCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ListaDeClientesCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T17:11:45.783Z"
             }
           ]
         },

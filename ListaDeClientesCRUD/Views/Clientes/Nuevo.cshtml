@@ -1,0 +1,90 @@
+﻿@model ListaDeClientesCRUD.Models.Cliente
+
+@{
+    ViewData["Title"] = "Nuevo Cliente";
+}
+
+<style>
+    .bg-whitesmoke {
+        background-color: whitesmoke
+    }
+</style>
+
+<!--HEADER NAVBAR-->
+
+
+
+<!--TRABAJO POSTA-->
+<div class="container pt-2">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1 class="text-center pb-5">CRUD App - Nuevo Cliente - Julian Perrotta</h1>
+        </div>
+    </div>
+
+    <!--TITULO CARD-->
+    <div class="row pb-0">
+        <div class="col-12 text-center bg-dark text-light p-1">
+            <h3><strong> Nuevo Cliente </strong></h3>
+
+        </div>
+
+    </div>
+
+    <!--FORMULARIO-->
+
+    
+    <form asp-action="Nuevo" method="POST">
+        <div asp-validation-summary="ModelOnly" class="text-info"></div>
+        
+        <div class="row ">
+
+            <div class="col-6 bg-whitesmoke pt-3 pb-4">
+                <label asp-for="Nombre" class="control-label"> <strong>Nombre</strong>  </label>
+                <input asp-for="Nombre" class="form-control" placeholder="Nombre" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="col-6 bg-whitesmoke pt-3 pb-4">
+                <label asp-for="Apellido" class="control-label"> <strong>Apellido</strong>  </label>
+                <input asp-for="Apellido" class="form-control" placeholder="Apellido"/>
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+
+        </div>
+
+        <div class="row pb-0">
+
+            <div class="col-4  bg-whitesmoke pt-3 pb-4">
+                <label asp-for="Telefono" class="control-label"> <strong>Telefono</strong>  </label>
+                <input asp-for="Telefono" class="form-control" placeholder="Telefono" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+
+            <div class="col-4 bg-whitesmoke pt-3 pb-4">
+                <label asp-for="Mail" class="control-label"> <strong>Email</strong>  </label>
+                <input asp-for="Mail" class="form-control" type="email" placeholder="Mail"/>
+                <span asp-validation-for="Mail" class="text-danger"></span>
+            </div>
+
+            <div class="col-4 bg-whitesmoke pt-3 pb-4">
+                <label asp-for="Dni" class="control-label"> <strong>DNI</strong>  </label>
+                <input asp-for="Dni" class="form-control" placeholder="Dni"/>
+                <span asp-validation-for="Dni" class="text-danger"></span>
+            </div>
+            
+            <!--Botones-->
+            <div class="col-12 bg-whitesmoke pt-3 pb-4 d-flex justify-content-center">
+                <input type="submit" class="btn btn-success" value="Agregar" />
+                <input type="reset" class="btn btn-secondary" value="Reiniciar" />
+
+            </div>
+
+        </div>
+
+        
+
+    </form>   
+
+
+</div>

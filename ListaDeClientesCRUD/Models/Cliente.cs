@@ -6,15 +6,15 @@ namespace ListaDeClientesCRUD.Models
     {
         [Key]
         public int ClienteId { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Este campo es obligatorio")]
         public string Nombre { get; set;}
-        [Required]
+        [Required(ErrorMessage = "Este campo es obligatorio")]
         public string Apellido { get; set;}
-        [Required]
+        [Required(ErrorMessage = "Este campo es obligatorio")]
         public int Dni { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Este campo es obligatorio")]
         public string Mail { get; set; }
-        [Required]
+        [Required(ErrorMessage = "Este campo es obligatorio")]
         public int Telefono { get; set; }
         public DateTime CreationTime { get; set; }
 

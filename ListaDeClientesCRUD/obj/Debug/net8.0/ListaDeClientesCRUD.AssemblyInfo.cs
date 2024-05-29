@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaDeClientesCRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+383ca618c5e7cff3c842f6526d10e522843a177e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ca80b57eaad8978076ed440215fd78227db8ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaDeClientesCRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaDeClientesCRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,12 +6,12 @@ using System.Diagnostics;
 
 namespace ListaDeClientesCRUD.Controllers
 {
-    public class HomeController : Controller
+    public class ClientesController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ClientesController> _logger;
         private readonly ApplicationDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
+        public ClientesController(ILogger<ClientesController> logger, ApplicationDbContext context)
         {
             _logger = logger;
             _context = context;
@@ -28,12 +28,34 @@ namespace ListaDeClientesCRUD.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> ListaClientes()
+        public async Task<IActionResult> Lista()
         {
             return View(await _context.Clientes.ToListAsync());
         }
+
+        [HttpGet]
+        public IActionResult Nuevo()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Nuevo(Cliente cliente)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Clientes.Add(cliente);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Lista)); 
+            }
+            else
+            {
+                return View();
+            }
+        }
         
 
+        /// //////////////////////////////////////////////////////////////////////////////////////// 
+  
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
